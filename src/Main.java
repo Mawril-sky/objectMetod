@@ -29,7 +29,7 @@ public class Main {
         Order o3 = new Order("Анна", basket3);
         Order o4 = new Order("Борис", basket1); // другой клиент
         Order o5 = new Order("Анна", basket4);
-//
+
         System.out.println(o1);
         System.out.println(o2);
         System.out.println(o3);

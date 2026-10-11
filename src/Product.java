@@ -40,7 +40,7 @@ class Product {
 
         return true;
     }
-    //
+
     @Override
     public int hashCode() {
         // hashCode должен быть согласован с equals: используем те же поля

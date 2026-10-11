@@ -51,7 +51,7 @@ class Order {
 
         return true;
     }
-    //
+
     @Override
     public int hashCode() {
         int result = Objects.hash(customer);
